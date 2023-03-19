@@ -1,18 +1,18 @@
-### Hi there 👋
-<div id="socials" align="center">
+<div id="header" align="center">
+	<h1>Hi there, I'm Mikhail</h1>
+	<h3>ML Engineer, Data Scientist</h3>
+</div>
+<div id="socials" align="left">
   <a href="https://t.me/velar27">
       <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</div>
+   or 
+  <a href=mailto:kuznecovmihail2019@gmail.com>
+      <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🧑‍🎓 Studying at **Perm State University**
+- 👨‍💻 
+- 📝 I regularly write articles on [Medium](medium-link)
+- 📄 Know about my experiences [CV](cv-link)

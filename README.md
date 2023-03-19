@@ -1,7 +1,9 @@
 ### Hi there 👋
-
-<!--
-**PixelPantz/PixelPantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+  <a href="https://t.me/velar27">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
 Here are some ideas to get you started:
 

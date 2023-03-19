@@ -14,5 +14,5 @@
 ### About me
 - 🧑‍🎓 Studying at **Perm State University**
 - 👨‍💻 
-- 📝 I regularly write articles on [Medium](medium-link)
+- 📝 
 - 📄 Know about my experiences [CV](cv-link)

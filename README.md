@@ -16,6 +16,7 @@
 - 🧑‍🎓 Studying at **Perm State University**
 - 👨‍💻 AI chat-bot **[NerdLess](https://github.com/RakePants/nerdless)** developer 
 - 📄 Know about my experiences [CV](cv-link)
+- 📒 Practicing in CV and NLP
 
 ### Languages and Tools:
 - `C++` `Python` `SQL` `PyTorch` `Docker` `Pandas` `NumPy` `CatBoost` `aiogram` `scikit-learn`

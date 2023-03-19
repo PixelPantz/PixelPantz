@@ -19,4 +19,4 @@
 - 📒 Practicing in CV and NLP
 
 ### Languages and Tools:
-- `C++` `Python` `SQL` `PyTorch` `Docker` `Pandas` `NumPy` `CatBoost` `aiogram` `scikit-learn`
+- `C++` `Python` `SQL` `PyTorch` `Docker` `Pandas` `NumPy` `CatBoost` `aiogram` `scikit-learn` `matplotlib` `seaborn`

@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Mikhail</h1>
-	<h3>ML Engineer, Data Scientist</h3>
+	<h3>ML Engineer, Data Scientist, AI chat-bot developer</h3>
 </div>
 <h2>Contacts: </h2>
 <div id="socials" align="left">
@@ -14,9 +14,11 @@
 
 ### About me
 - 🧑‍🎓 Studying at **Perm State University**
-- 👨‍💻 AI chat-bot **[NerdLess](https://github.com/RakePants/nerdless)** developer 
+- 👨‍💻 AI chat-bot developer with `Python`, `LangChain`, `Streamlit`, `Rasa`, `FastAPI`, `Aiogram` and `SQL` 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1IT7D5vFgICtYY57WCoy1KDEyDSBjH7ra/view?usp=sharing)
 - 📒 Practicing in CV and NLP
+- 🧑‍💼 Working on AI projects at [HappyAI](https://happyai.one/)
 
 ### Languages and Tools:
-- `C++` `Python` `SQL` `PyTorch` `transformers` `Pandas` `NumPy` `CatBoost` `scikit-learn` `matplotlib` `seaborn` `docker` `aiogram`
+- `C++` `Python` `SQL` `PyTorch` `transformers` `Pandas` `CatBoost` `scikit-learn` `matplotlib` `seaborn` `docker`
+`aiogram` `LangChain` `FastAPI` `Rasa` `Streamlit`

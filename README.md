@@ -17,7 +17,6 @@
 - 👨‍💻 AI chat-bot developer with `Python`, `LangChain`, `Streamlit`, `Rasa`, `FastAPI`, `Aiogram` and `SQL` 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1IT7D5vFgICtYY57WCoy1KDEyDSBjH7ra/view?usp=sharing)
 - 📒 Practicing in CV and NLP
-- 🧑‍💼 Working on AI projects at [HappyAI](https://happyai.one/)
 
 ### Languages and Tools:
 - `C++` `Python` `SQL` `PyTorch` `transformers` `Pandas` `CatBoost` `scikit-learn` `matplotlib` `seaborn` `docker`

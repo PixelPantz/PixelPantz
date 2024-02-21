@@ -14,7 +14,6 @@
 
 ### About me
 - 👨‍💻 AI chat-bot developer 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1IT7D5vFgICtYY57WCoy1KDEyDSBjH7ra/view?usp=sharing)
 - 📒 Practicing in CV and NLP
 
 ### Languages and Tools:
